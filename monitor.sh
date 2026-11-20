@@ -11,3 +11,5 @@ free -h
 echo ""
 echo "--- Disk Usage ---"
 df -h
+echo "------uptime------"
+uptime
